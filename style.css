@@ -1,0 +1,235 @@
+
+/*------------------------------Main Settings------------------------------*/
+
+body
+{
+	background-color: #2F3336;
+	color: #efefef;
+    font-family: 'PT Sans', sans-serif; 
+    font-size: 17px;
+}
+
+h1
+{
+	font-size: 36px;
+	font-weight: 400;
+	color: #C0D06F;
+	margin: 20px;
+}
+
+.jumpers
+{
+	text-align: center;
+}
+
+.jumpers img
+{
+	width: 100%;
+	height: auto;
+}
+
+.jumpers p
+{
+	margin-bottom: 30px;
+}
+
+.jumpers figcaption
+{
+	margin-top: 8px;
+}
+
+.navbar
+{
+	min-height: 57px;
+}
+
+/*Ustawienie swojego koloru tła na elementach bootstrapowych*/
+.mojKolor
+{
+	background-color: #91a33b !important;
+}
+
+
+/*zmiana domyslenej w Bootstrapie opcji rowijania list poprzez kliknięcie, przy wlaczeniu tej opcji lista bedzie sie roziwjac przez najechanie kursorem
+.navbar-nav li:hover>.dropdown-menu 
+{
+	display: block;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.test1 {
+	opacity: 0.6;
+
+}
+
+.test1:hover {
+	opacity: 1;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*zastapiono elementem container bootstrapa
+
+#container
+{
+	width: 100%;
+	margin-left: auto; 
+	margin-right: auto;
+	#background-color: #efefef;;
+}
+
+
+
+#navbar
+{
+	width:100%;
+	background-color: red;
+	color: black;
+
+	display:flex;
+	justify-content: center;
+	align-items:center;
+
+}
+
+
+#page
+{
+	display:flex;
+	min-height: 800px;
+}
+
+
+#menu
+{
+	background-color: blue;
+	color: white;
+
+}
+
+#webContent
+{
+	background-color: green;
+	color: white;
+	text-align: center;
+ 
+}
+
+
+#footer
+{
+	width:100%;
+	background-color: yellow;
+	color: black;
+	text-align: center;
+}
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*------------------------------Pomocnicze------------------------------*/
+
+.test
+{
+	width:20%;
+	height:120px;
+	background-color: yellow;
+	color: black;
+
+	display: inline-block;
+	
+	#float:left; 
+	padding: 10px;
+	margin: 20px;
+
+}
+
